@@ -36,3 +36,11 @@ Run tests using your preferred IDE or build tool (e.g., IntelliJ IDEA, Eclipse, 
 
 - **JUnit Testing Framework**
 
+## 📧 Contact
+
+If you have any questions, feel free to reach out:
+
+- **📮 Email: rafsunislamtaskin024@gmail.com**
+
+- **💼 LinkedIn: [Rafsun Islam Taskin](https://www.linkedin.com/in/rafsunislamtaskin/)**
+
